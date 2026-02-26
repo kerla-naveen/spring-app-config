@@ -7,7 +7,7 @@ spring:
 
 
 payment:
-  message: "welcome to payment production environment upadted APIS"
+  message: "welcome to payment production environment updated2 APIS"
   contactDetails:
     name: "Naveen kerla"
     email: "kerlanaveen19@digiclassroom.com"
