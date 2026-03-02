@@ -6,7 +6,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
 
 
-payment:
+product:
   message: "welcome to product production environment updated4 APIS"
   contactDetails:
     name: "Naveen kerla"

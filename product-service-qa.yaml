@@ -5,7 +5,7 @@ spring:
     password: password
     driver-class-name: com.mysql.cj.jdbc.Driver
 
-payment:
+product:
   message: "welcome to product QA testing environment APIS"
   contactDetails:
     name: "nayna"
