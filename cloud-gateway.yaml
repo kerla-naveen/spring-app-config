@@ -1,0 +1,8 @@
+gateway:
+  message: "welcome to cloud gateway local environment APIS"
+  contactDetails:
+    name: "nayna"
+    email: "developerdigiclassroom.com"
+  onCallSupport:
+    - 88888-77777
+    - 99999-66666
